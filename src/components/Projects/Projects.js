@@ -57,7 +57,7 @@ function Projects() {
               description="
               A clone of Google Keep, a note taking app. It is a MERN stack application with features like adding, deleting, and editing notes. It also has a feature to add labels to the notes.
               "
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/Deepanshu0703/google-keeper-clone"
             />
           </Col>
 

@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Deepanshu Kumar </span>
             from <span className="purple"> Noida, India.</span>
-            <br />I am pursuing B.Tech. at IIIT Jabalpur.
+            <br />I am pursuing B.Tech. in CSE at IIIT Jabalpur.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -18,6 +18,9 @@ function AboutCard() {
           <ul>
             <li className="about-activity">
               <ImPointRight /> Writing Tech Blogs
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Learning new technologies and reading books
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
