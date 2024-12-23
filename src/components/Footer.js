@@ -39,6 +39,16 @@ function Footer() {
                 <FaLinkedinIn />
               </a>
             </li>
+             <li className="social-icons">
+                                          <a
+                                            href="https://medium.com/@deepanshutiw03"
+                                            target="_blank"
+                                            rel="noreferrer"
+                                            className="icon-colour  home-social-icons"
+                                          >
+                                            <FaMedium />
+                                          </a>
+                                        </li>
 
           </ul>
         </Col>
