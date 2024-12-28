@@ -21,12 +21,12 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> Java, C++, Javascript and Python. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new Technologies using  &nbsp;
-              <b className="purple">Node.js</b> and
+              <b className="purple">Gradle, Java, Node.js</b> and
               <i>
                 <b className="purple">
                   {" "}

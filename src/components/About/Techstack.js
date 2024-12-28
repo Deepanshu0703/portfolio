@@ -13,7 +13,11 @@ import {
   SiExpress,
   SiTensorflow,
   SiNextdotjs,
+  SiGradle ,
+  SiGraphql
 } from "react-icons/si";
+
+import { FaJava } from "react-icons/fa";
 
 function Techstack() {
   return (
@@ -47,6 +51,15 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiExpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGradle />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGraphql />
       </Col>
     </Row>
   );
